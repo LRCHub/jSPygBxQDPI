@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "初恋サイダー(鈴木愛理version)",
+  "base_artist": "Buono!",
+  "createdAt": "2026-02-08T14:16:41.274927Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋サイダー (Album version)",
+      "artist": "Buono!",
+      "has_synced": false,
+      "path": "select/pl_01_初恋サイダー_(Album_version)_Buono!.txt"
+    }
+  ]
+}
